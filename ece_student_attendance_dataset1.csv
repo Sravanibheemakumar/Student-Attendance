@@ -1,0 +1,1001 @@
+Student ID,Date,Subject Name,Lecturer Name,Percentage Attended,Attendance Status
+S1000,3/24/2024,Microprocessors,T. Gupta,99.82,Present
+S1001,3/3/2024,Embedded Systems,S. Reddy,83.01,Absent
+S1002,4/20/2024,Antenna and Wave Propagation,M. Das,85.21,Present
+S1003,1/31/2024,Communication Systems,R. Sharma,75.84,Absent
+S1004,6/21/2024,Embedded Systems,T. Gupta,62.09,Present
+S1005,3/31/2024,VLSI Design,V. Iyer,44.06,Absent
+S1006,4/14/2024,Analog Circuits,S. Reddy,86.22,Present
+S1007,2/21/2024,Control Systems,V. Iyer,50.89,Absent
+S1008,5/18/2024,Signal Processing,R. Sharma,88.63,Present
+S1009,6/11/2024,Communication Systems,R. Sharma,76.93,Absent
+S1010,1/3/2024,Analog Circuits,R. Sharma,60.94,Present
+S1011,2/24/2024,Communication Systems,R. Sharma,83.32,Present
+S1012,2/3/2024,Communication Systems,T. Gupta,93.96,Present
+S1013,4/29/2024,Electromagnetic Theory,S. Reddy,72.77,Present
+S1014,5/30/2024,Analog Circuits,A. Mehta,70.68,Absent
+S1015,4/26/2024,Control Systems,M. Das,77.23,Present
+S1016,2/15/2024,Analog Circuits,L. Kumar,60.42,Present
+S1017,4/27/2024,Microprocessors,A. Mehta,96.93,Present
+S1018,5/21/2024,Digital Electronics,R. Sharma,96.21,Present
+S1019,6/20/2024,Communication Systems,R. Sharma,40.87,Absent
+S1020,1/29/2024,VLSI Design,S. Reddy,93.66,Present
+S1021,2/9/2024,Digital Electronics,L. Kumar,84.07,Absent
+S1022,4/8/2024,Electromagnetic Theory,M. Das,44.22,Absent
+S1023,6/3/2024,Communication Systems,L. Kumar,42.01,Absent
+S1024,2/23/2024,Communication Systems,R. Sharma,76.77,Present
+S1025,2/29/2024,Microprocessors,L. Kumar,54.55,Absent
+S1026,3/19/2024,Signal Processing,A. Mehta,91.7,Present
+S1027,5/17/2024,Antenna and Wave Propagation,M. Das,90.04,Present
+S1028,3/14/2024,Analog Circuits,R. Sharma,57.31,Absent
+S1029,3/9/2024,Control Systems,R. Sharma,44.38,Absent
+S1030,4/10/2024,Electromagnetic Theory,M. Das,75.22,Present
+S1031,1/30/2024,Control Systems,T. Gupta,97.45,Present
+S1032,3/27/2024,Signal Processing,T. Gupta,71.69,Absent
+S1033,6/19/2024,Communication Systems,S. Reddy,77.53,Present
+S1034,2/4/2024,Control Systems,L. Kumar,79.72,Absent
+S1035,6/18/2024,Antenna and Wave Propagation,S. Reddy,90.37,Absent
+S1036,5/8/2024,Microprocessors,L. Kumar,72.29,Absent
+S1037,6/25/2024,Digital Electronics,L. Kumar,41.94,Absent
+S1038,1/8/2024,Communication Systems,R. Sharma,78.41,Present
+S1039,6/19/2024,Control Systems,L. Kumar,59.58,Absent
+S1040,6/20/2024,Control Systems,T. Gupta,82.2,Absent
+S1041,3/12/2024,Antenna and Wave Propagation,T. Gupta,42.92,Absent
+S1042,1/20/2024,Electromagnetic Theory,T. Gupta,44.44,Absent
+S1043,1/19/2024,Communication Systems,T. Gupta,67.57,Present
+S1044,4/2/2024,Digital Electronics,M. Das,53.24,Absent
+S1045,2/18/2024,Analog Circuits,S. Reddy,95.12,Present
+S1046,3/5/2024,Signal Processing,N. Rao,95.4,Present
+S1047,6/19/2024,Communication Systems,V. Iyer,89.19,Present
+S1048,1/27/2024,Analog Circuits,M. Das,63.06,Absent
+S1049,3/12/2024,Embedded Systems,R. Sharma,77.56,Present
+S1050,5/3/2024,Electromagnetic Theory,M. Das,98.8,Present
+S1051,2/21/2024,Microprocessors,S. Reddy,49.57,Absent
+S1052,3/10/2024,Embedded Systems,R. Sharma,70.69,Present
+S1053,3/16/2024,Communication Systems,M. Das,55.03,Absent
+S1054,5/1/2024,Communication Systems,R. Sharma,70.45,Present
+S1055,2/3/2024,VLSI Design,S. Reddy,56.69,Absent
+S1056,2/28/2024,Communication Systems,T. Gupta,71.9,Present
+S1057,1/27/2024,Microprocessors,L. Kumar,57.54,Absent
+S1058,6/4/2024,Analog Circuits,L. Kumar,74.94,Present
+S1059,2/14/2024,VLSI Design,V. Iyer,54.14,Absent
+S1060,6/27/2024,Antenna and Wave Propagation,T. Gupta,82.97,Present
+S1061,5/24/2024,Signal Processing,S. Reddy,66.2,Absent
+S1062,2/6/2024,Embedded Systems,A. Mehta,88.06,Present
+S1063,4/24/2024,Microprocessors,V. Iyer,89.04,Present
+S1064,4/28/2024,Microprocessors,S. Reddy,71.93,Present
+S1065,4/3/2024,Signal Processing,L. Kumar,46.14,Absent
+S1066,4/26/2024,Embedded Systems,S. Reddy,76.87,Present
+S1067,5/20/2024,Antenna and Wave Propagation,T. Gupta,97.02,Present
+S1068,5/3/2024,Signal Processing,V. Iyer,91.34,Present
+S1069,1/6/2024,VLSI Design,S. Reddy,77.86,Present
+S1070,6/22/2024,Microprocessors,T. Gupta,59.53,Absent
+S1071,3/23/2024,Communication Systems,V. Iyer,57.28,Absent
+S1072,2/26/2024,Electromagnetic Theory,R. Sharma,62.83,Present
+S1073,2/29/2024,Communication Systems,M. Das,43.82,Absent
+S1074,1/25/2024,Analog Circuits,A. Mehta,97.61,Present
+S1075,6/16/2024,Embedded Systems,M. Das,71.41,Absent
+S1076,4/28/2024,Electromagnetic Theory,R. Sharma,87.89,Present
+S1077,1/21/2024,Analog Circuits,N. Rao,74.55,Present
+S1078,6/20/2024,Analog Circuits,R. Sharma,44.91,Absent
+S1079,3/9/2024,Analog Circuits,N. Rao,67.81,Present
+S1080,2/10/2024,Control Systems,T. Gupta,96.06,Present
+S1081,6/14/2024,VLSI Design,N. Rao,58.99,Present
+S1082,2/20/2024,Electromagnetic Theory,S. Reddy,55.6,Absent
+S1083,6/8/2024,Antenna and Wave Propagation,A. Mehta,63.5,Absent
+S1084,3/12/2024,Electromagnetic Theory,N. Rao,71.59,Present
+S1085,5/18/2024,VLSI Design,S. Reddy,51.9,Absent
+S1086,5/28/2024,Communication Systems,T. Gupta,50.59,Absent
+S1087,4/14/2024,Communication Systems,S. Reddy,55.64,Absent
+S1088,4/8/2024,Antenna and Wave Propagation,N. Rao,83.33,Present
+S1089,3/10/2024,Analog Circuits,S. Reddy,61.54,Absent
+S1090,5/28/2024,Signal Processing,S. Reddy,61.28,Absent
+S1091,5/6/2024,Communication Systems,M. Das,65.3,Present
+S1092,6/5/2024,Communication Systems,T. Gupta,77.43,Present
+S1093,2/5/2024,Communication Systems,R. Sharma,48.08,Absent
+S1094,1/4/2024,Control Systems,T. Gupta,64.79,Present
+S1095,3/7/2024,Digital Electronics,M. Das,74.37,Present
+S1096,2/27/2024,Microprocessors,L. Kumar,75.56,Present
+S1097,5/9/2024,Embedded Systems,M. Das,61.97,Absent
+S1098,4/22/2024,Electromagnetic Theory,A. Mehta,54.89,Absent
+S1099,6/18/2024,Analog Circuits,A. Mehta,42.63,Absent
+S1100,6/28/2024,Control Systems,A. Mehta,74.47,Present
+S1101,1/20/2024,Communication Systems,L. Kumar,52.35,Absent
+S1102,4/28/2024,VLSI Design,R. Sharma,53.81,Absent
+S1103,2/11/2024,Digital Electronics,T. Gupta,74.56,Present
+S1104,3/16/2024,Control Systems,T. Gupta,43.51,Absent
+S1105,5/18/2024,Digital Electronics,T. Gupta,89.26,Present
+S1106,4/11/2024,Signal Processing,R. Sharma,84.05,Present
+S1107,6/28/2024,Signal Processing,A. Mehta,97.91,Present
+S1108,3/10/2024,Electromagnetic Theory,R. Sharma,62.9,Absent
+S1109,1/17/2024,Microprocessors,A. Mehta,74.56,Absent
+S1110,1/30/2024,Analog Circuits,A. Mehta,90.01,Present
+S1111,4/27/2024,Control Systems,N. Rao,87.49,Present
+S1112,5/16/2024,Control Systems,R. Sharma,71.15,Absent
+S1113,1/17/2024,Embedded Systems,A. Mehta,75.66,Present
+S1114,3/24/2024,VLSI Design,N. Rao,41.91,Absent
+S1115,4/8/2024,Communication Systems,A. Mehta,95.33,Present
+S1116,4/16/2024,VLSI Design,M. Das,72.68,Absent
+S1117,1/29/2024,Control Systems,N. Rao,69.82,Absent
+S1118,3/8/2024,Signal Processing,M. Das,56.18,Absent
+S1119,2/23/2024,VLSI Design,S. Reddy,54.17,Absent
+S1120,6/8/2024,Control Systems,M. Das,65.08,Absent
+S1121,4/2/2024,Embedded Systems,A. Mehta,71.74,Present
+S1122,6/4/2024,Embedded Systems,A. Mehta,66.25,Absent
+S1123,3/29/2024,Antenna and Wave Propagation,R. Sharma,67.32,Present
+S1124,5/14/2024,Analog Circuits,R. Sharma,59.09,Absent
+S1125,2/13/2024,Digital Electronics,R. Sharma,53.69,Absent
+S1126,6/9/2024,Control Systems,T. Gupta,94.84,Present
+S1127,5/11/2024,Embedded Systems,N. Rao,92.63,Present
+S1128,5/13/2024,Analog Circuits,S. Reddy,72.51,Present
+S1129,5/30/2024,Digital Electronics,N. Rao,71.68,Present
+S1130,6/1/2024,Digital Electronics,V. Iyer,66.32,Present
+S1131,2/17/2024,Electromagnetic Theory,T. Gupta,57.38,Absent
+S1132,5/16/2024,Digital Electronics,T. Gupta,42.37,Absent
+S1133,2/27/2024,VLSI Design,N. Rao,79.59,Present
+S1134,1/25/2024,Control Systems,V. Iyer,50.56,Present
+S1135,3/11/2024,Control Systems,M. Das,57.4,Absent
+S1136,1/2/2024,Antenna and Wave Propagation,T. Gupta,83.63,Present
+S1137,4/20/2024,Microprocessors,M. Das,57.75,Present
+S1138,5/15/2024,Antenna and Wave Propagation,S. Reddy,65.83,Absent
+S1139,5/29/2024,VLSI Design,L. Kumar,54.44,Absent
+S1140,3/6/2024,Electromagnetic Theory,A. Mehta,96.04,Present
+S1141,2/1/2024,Embedded Systems,S. Reddy,89.58,Present
+S1142,3/12/2024,Control Systems,V. Iyer,54.77,Absent
+S1143,1/28/2024,Signal Processing,T. Gupta,66.82,Present
+S1144,3/21/2024,Control Systems,T. Gupta,94.88,Present
+S1145,1/4/2024,Digital Electronics,M. Das,64.74,Absent
+S1146,5/25/2024,Control Systems,S. Reddy,92.6,Present
+S1147,5/29/2024,Analog Circuits,N. Rao,68.83,Present
+S1148,4/27/2024,Signal Processing,V. Iyer,67.72,Present
+S1149,1/10/2024,Signal Processing,V. Iyer,40.54,Absent
+S1150,3/4/2024,Signal Processing,V. Iyer,69.58,Present
+S1151,3/5/2024,Communication Systems,S. Reddy,50.5,Absent
+S1152,5/28/2024,Analog Circuits,A. Mehta,77.73,Present
+S1153,2/26/2024,Embedded Systems,S. Reddy,87.87,Present
+S1154,3/1/2024,Digital Electronics,L. Kumar,52.64,Absent
+S1155,3/5/2024,Control Systems,M. Das,88.46,Present
+S1156,6/15/2024,Antenna and Wave Propagation,L. Kumar,94.91,Present
+S1157,1/24/2024,Electromagnetic Theory,V. Iyer,88.3,Absent
+S1158,3/21/2024,Control Systems,R. Sharma,41.65,Absent
+S1159,6/28/2024,Signal Processing,A. Mehta,53.49,Absent
+S1160,5/20/2024,Communication Systems,A. Mehta,65.95,Absent
+S1161,2/7/2024,Microprocessors,L. Kumar,64.47,Absent
+S1162,6/27/2024,Signal Processing,M. Das,63.69,Absent
+S1163,4/5/2024,Antenna and Wave Propagation,A. Mehta,57.48,Absent
+S1164,6/13/2024,Signal Processing,T. Gupta,49.41,Absent
+S1165,3/26/2024,Digital Electronics,M. Das,57.71,Absent
+S1166,6/1/2024,Communication Systems,R. Sharma,43.85,Absent
+S1167,6/26/2024,Communication Systems,N. Rao,84.45,Absent
+S1168,6/13/2024,Embedded Systems,V. Iyer,97.82,Present
+S1169,4/18/2024,Embedded Systems,T. Gupta,91.74,Present
+S1170,2/16/2024,Antenna and Wave Propagation,R. Sharma,42.04,Absent
+S1171,1/3/2024,Signal Processing,L. Kumar,74.01,Absent
+S1172,1/7/2024,Communication Systems,T. Gupta,77.38,Present
+S1173,1/26/2024,Analog Circuits,R. Sharma,42.76,Absent
+S1174,1/8/2024,Control Systems,T. Gupta,68.94,Present
+S1175,3/28/2024,Electromagnetic Theory,N. Rao,46.93,Absent
+S1176,4/27/2024,Control Systems,L. Kumar,67.2,Present
+S1177,6/29/2024,Digital Electronics,T. Gupta,76.95,Present
+S1178,4/16/2024,Embedded Systems,V. Iyer,69.8,Absent
+S1179,1/8/2024,Electromagnetic Theory,V. Iyer,75.86,Present
+S1180,6/28/2024,Analog Circuits,M. Das,74.43,Absent
+S1181,5/12/2024,Antenna and Wave Propagation,R. Sharma,99.91,Present
+S1182,5/2/2024,Electromagnetic Theory,S. Reddy,61.79,Absent
+S1183,2/2/2024,Communication Systems,V. Iyer,85.04,Present
+S1184,4/29/2024,Embedded Systems,A. Mehta,51.78,Absent
+S1185,2/17/2024,Digital Electronics,T. Gupta,42.53,Absent
+S1186,1/20/2024,Signal Processing,S. Reddy,85.36,Present
+S1187,2/29/2024,Control Systems,T. Gupta,94.2,Present
+S1188,5/25/2024,VLSI Design,A. Mehta,51.72,Absent
+S1189,1/11/2024,VLSI Design,M. Das,53.6,Absent
+S1190,6/21/2024,Embedded Systems,T. Gupta,64.87,Absent
+S1191,5/20/2024,Communication Systems,T. Gupta,43.4,Absent
+S1192,5/13/2024,Antenna and Wave Propagation,T. Gupta,59.59,Absent
+S1193,5/24/2024,Microprocessors,N. Rao,85.26,Present
+S1194,5/7/2024,Electromagnetic Theory,R. Sharma,74.56,Present
+S1195,4/15/2024,Electromagnetic Theory,N. Rao,89.82,Present
+S1196,6/12/2024,Signal Processing,V. Iyer,82.26,Present
+S1197,4/18/2024,Antenna and Wave Propagation,S. Reddy,62.76,Absent
+S1198,5/10/2024,Signal Processing,R. Sharma,41.78,Absent
+S1199,1/1/2024,Antenna and Wave Propagation,R. Sharma,51.55,Absent
+S1200,4/3/2024,Control Systems,S. Reddy,85.51,Absent
+S1201,4/8/2024,Microprocessors,A. Mehta,80.96,Present
+S1202,1/15/2024,VLSI Design,R. Sharma,75.55,Present
+S1203,4/2/2024,Digital Electronics,L. Kumar,67.61,Present
+S1204,4/12/2024,Antenna and Wave Propagation,V. Iyer,73.19,Absent
+S1205,1/28/2024,Electromagnetic Theory,M. Das,70.94,Present
+S1206,6/21/2024,VLSI Design,R. Sharma,68.88,Absent
+S1207,1/25/2024,Antenna and Wave Propagation,A. Mehta,76.2,Present
+S1208,3/11/2024,Analog Circuits,V. Iyer,87.53,Present
+S1209,5/11/2024,Analog Circuits,V. Iyer,73.93,Present
+S1210,2/10/2024,Electromagnetic Theory,V. Iyer,55.58,Absent
+S1211,6/4/2024,Signal Processing,L. Kumar,58.24,Present
+S1212,2/27/2024,Antenna and Wave Propagation,R. Sharma,64.94,Absent
+S1213,5/22/2024,Digital Electronics,T. Gupta,93.58,Present
+S1214,6/19/2024,Control Systems,N. Rao,53.59,Absent
+S1215,4/17/2024,VLSI Design,R. Sharma,87.04,Present
+S1216,1/29/2024,Antenna and Wave Propagation,L. Kumar,80.16,Absent
+S1217,2/3/2024,Embedded Systems,V. Iyer,76.16,Present
+S1218,4/13/2024,Embedded Systems,R. Sharma,44.92,Absent
+S1219,2/1/2024,Analog Circuits,M. Das,68.69,Present
+S1220,1/23/2024,Communication Systems,M. Das,48.36,Absent
+S1221,6/7/2024,Embedded Systems,N. Rao,48,Absent
+S1222,5/4/2024,Antenna and Wave Propagation,S. Reddy,54.81,Absent
+S1223,2/20/2024,Embedded Systems,A. Mehta,65.14,Present
+S1224,5/10/2024,Digital Electronics,S. Reddy,68.13,Absent
+S1225,3/6/2024,Digital Electronics,T. Gupta,90.9,Present
+S1226,3/23/2024,Control Systems,V. Iyer,90.49,Present
+S1227,4/9/2024,VLSI Design,M. Das,94.65,Present
+S1228,2/16/2024,Signal Processing,T. Gupta,57.23,Absent
+S1229,2/15/2024,Electromagnetic Theory,S. Reddy,44.65,Absent
+S1230,4/13/2024,Embedded Systems,A. Mehta,50.91,Absent
+S1231,6/4/2024,Analog Circuits,N. Rao,96.22,Present
+S1232,2/23/2024,Embedded Systems,R. Sharma,90.15,Present
+S1233,1/7/2024,Digital Electronics,A. Mehta,62.46,Absent
+S1234,4/30/2024,Microprocessors,R. Sharma,65.6,Present
+S1235,3/28/2024,Signal Processing,V. Iyer,40.94,Absent
+S1236,2/18/2024,Embedded Systems,A. Mehta,73.99,Absent
+S1237,3/16/2024,Electromagnetic Theory,M. Das,41.5,Absent
+S1238,6/21/2024,Control Systems,M. Das,84.05,Present
+S1239,6/28/2024,Embedded Systems,A. Mehta,45.32,Absent
+S1240,5/30/2024,Signal Processing,M. Das,62.45,Present
+S1241,3/16/2024,Antenna and Wave Propagation,L. Kumar,61.15,Absent
+S1242,3/11/2024,Microprocessors,V. Iyer,74.86,Present
+S1243,3/19/2024,Analog Circuits,R. Sharma,78.84,Present
+S1244,4/6/2024,Embedded Systems,M. Das,46.23,Absent
+S1245,3/10/2024,VLSI Design,V. Iyer,89.4,Present
+S1246,5/16/2024,Analog Circuits,M. Das,54.22,Absent
+S1247,4/4/2024,VLSI Design,S. Reddy,93.37,Present
+S1248,4/28/2024,Microprocessors,N. Rao,67.07,Present
+S1249,6/13/2024,Antenna and Wave Propagation,R. Sharma,47.75,Absent
+S1250,2/26/2024,Digital Electronics,T. Gupta,84.99,Present
+S1251,1/3/2024,Antenna and Wave Propagation,N. Rao,95.23,Present
+S1252,2/28/2024,Digital Electronics,T. Gupta,80.5,Present
+S1253,6/11/2024,VLSI Design,A. Mehta,89.29,Present
+S1254,2/7/2024,Electromagnetic Theory,S. Reddy,90.89,Present
+S1255,6/5/2024,Microprocessors,T. Gupta,60.57,Present
+S1256,3/10/2024,Communication Systems,N. Rao,92.34,Present
+S1257,3/20/2024,Antenna and Wave Propagation,N. Rao,70.15,Absent
+S1258,6/21/2024,Signal Processing,T. Gupta,51.09,Absent
+S1259,6/19/2024,Electromagnetic Theory,S. Reddy,96.1,Present
+S1260,4/21/2024,Analog Circuits,T. Gupta,93.89,Present
+S1261,6/26/2024,Electromagnetic Theory,A. Mehta,83.37,Absent
+S1262,2/20/2024,Digital Electronics,N. Rao,65.04,Absent
+S1263,4/19/2024,VLSI Design,S. Reddy,56.77,Absent
+S1264,2/29/2024,Digital Electronics,M. Das,99.04,Present
+S1265,2/25/2024,Electromagnetic Theory,T. Gupta,40.23,Absent
+S1266,1/30/2024,VLSI Design,L. Kumar,94.54,Present
+S1267,3/2/2024,Communication Systems,R. Sharma,61.68,Present
+S1268,4/8/2024,Electromagnetic Theory,L. Kumar,66.16,Present
+S1269,4/29/2024,Control Systems,T. Gupta,90.58,Present
+S1270,6/21/2024,Analog Circuits,N. Rao,68.57,Absent
+S1271,4/28/2024,Antenna and Wave Propagation,S. Reddy,92.99,Present
+S1272,5/31/2024,VLSI Design,N. Rao,49.61,Absent
+S1273,1/24/2024,Communication Systems,R. Sharma,84.26,Present
+S1274,4/7/2024,Microprocessors,S. Reddy,77.37,Present
+S1275,3/21/2024,Antenna and Wave Propagation,T. Gupta,88.38,Present
+S1276,6/13/2024,VLSI Design,R. Sharma,57.05,Present
+S1277,3/31/2024,Electromagnetic Theory,T. Gupta,96.19,Present
+S1278,5/31/2024,Digital Electronics,M. Das,92.32,Present
+S1279,6/11/2024,Antenna and Wave Propagation,N. Rao,52.8,Absent
+S1280,5/5/2024,Signal Processing,T. Gupta,77.53,Present
+S1281,6/17/2024,Digital Electronics,T. Gupta,50.15,Absent
+S1282,4/14/2024,Communication Systems,N. Rao,50.9,Absent
+S1283,2/16/2024,Microprocessors,A. Mehta,44.45,Absent
+S1284,4/10/2024,Analog Circuits,A. Mehta,93.47,Present
+S1285,5/26/2024,Electromagnetic Theory,N. Rao,81.73,Present
+S1286,6/18/2024,Electromagnetic Theory,S. Reddy,90.42,Present
+S1287,3/13/2024,Control Systems,T. Gupta,52.4,Absent
+S1288,4/26/2024,Microprocessors,A. Mehta,92.65,Present
+S1289,1/31/2024,Antenna and Wave Propagation,T. Gupta,76.26,Absent
+S1290,1/10/2024,Electromagnetic Theory,R. Sharma,49.44,Absent
+S1291,5/28/2024,Antenna and Wave Propagation,L. Kumar,61.36,Absent
+S1292,4/16/2024,Communication Systems,A. Mehta,58.2,Present
+S1293,3/2/2024,Analog Circuits,R. Sharma,94.61,Present
+S1294,6/25/2024,Analog Circuits,S. Reddy,82.01,Present
+S1295,1/25/2024,Microprocessors,A. Mehta,45.71,Absent
+S1296,2/23/2024,Microprocessors,L. Kumar,46.2,Absent
+S1297,6/29/2024,Digital Electronics,N. Rao,93.2,Present
+S1298,1/20/2024,Embedded Systems,V. Iyer,61.03,Present
+S1299,4/1/2024,Control Systems,V. Iyer,74.37,Absent
+S1300,1/24/2024,Analog Circuits,M. Das,97.82,Present
+S1301,6/21/2024,VLSI Design,N. Rao,92.71,Present
+S1302,5/27/2024,Signal Processing,S. Reddy,45.95,Absent
+S1303,1/13/2024,Antenna and Wave Propagation,V. Iyer,76.33,Present
+S1304,5/18/2024,Antenna and Wave Propagation,V. Iyer,47.63,Absent
+S1305,2/14/2024,Electromagnetic Theory,L. Kumar,51.25,Absent
+S1306,1/28/2024,Control Systems,A. Mehta,87.91,Present
+S1307,1/3/2024,Signal Processing,T. Gupta,71.79,Absent
+S1308,1/9/2024,Control Systems,A. Mehta,53,Absent
+S1309,3/28/2024,Communication Systems,V. Iyer,76.36,Absent
+S1310,3/25/2024,Control Systems,N. Rao,63.13,Absent
+S1311,3/26/2024,Analog Circuits,T. Gupta,98.59,Present
+S1312,6/25/2024,Signal Processing,R. Sharma,50.43,Absent
+S1313,5/20/2024,VLSI Design,T. Gupta,66.63,Present
+S1314,3/12/2024,Electromagnetic Theory,S. Reddy,65.9,Present
+S1315,2/22/2024,Microprocessors,V. Iyer,67.99,Absent
+S1316,3/4/2024,Electromagnetic Theory,S. Reddy,54.61,Absent
+S1317,1/29/2024,Control Systems,N. Rao,57.92,Absent
+S1318,3/25/2024,Electromagnetic Theory,S. Reddy,72,Present
+S1319,5/12/2024,Communication Systems,M. Das,45.1,Absent
+S1320,6/27/2024,Embedded Systems,T. Gupta,91.26,Present
+S1321,3/19/2024,Signal Processing,A. Mehta,96.55,Present
+S1322,6/20/2024,Signal Processing,N. Rao,57.96,Absent
+S1323,6/28/2024,Antenna and Wave Propagation,S. Reddy,91.1,Present
+S1324,2/22/2024,Embedded Systems,A. Mehta,86.87,Present
+S1325,3/13/2024,Electromagnetic Theory,L. Kumar,73.85,Absent
+S1326,2/27/2024,Signal Processing,V. Iyer,50.14,Absent
+S1327,3/30/2024,Control Systems,R. Sharma,52.51,Absent
+S1328,4/4/2024,Electromagnetic Theory,T. Gupta,63.38,Absent
+S1329,3/6/2024,Electromagnetic Theory,V. Iyer,88.26,Present
+S1330,6/7/2024,Antenna and Wave Propagation,V. Iyer,54.08,Absent
+S1331,1/19/2024,Antenna and Wave Propagation,L. Kumar,54.1,Absent
+S1332,1/10/2024,Signal Processing,R. Sharma,77.63,Absent
+S1333,3/16/2024,Control Systems,V. Iyer,50.54,Absent
+S1334,6/4/2024,Digital Electronics,L. Kumar,68.24,Absent
+S1335,4/16/2024,VLSI Design,R. Sharma,84.25,Present
+S1336,5/22/2024,Analog Circuits,V. Iyer,86.64,Absent
+S1337,4/6/2024,VLSI Design,M. Das,56.47,Absent
+S1338,1/5/2024,Microprocessors,V. Iyer,71.21,Present
+S1339,6/20/2024,Signal Processing,L. Kumar,60.91,Absent
+S1340,5/4/2024,Analog Circuits,M. Das,63.59,Absent
+S1341,2/1/2024,Embedded Systems,T. Gupta,95.97,Present
+S1342,4/15/2024,VLSI Design,L. Kumar,90.89,Present
+S1343,2/16/2024,Antenna and Wave Propagation,M. Das,63.69,Absent
+S1344,1/18/2024,Microprocessors,M. Das,63.79,Absent
+S1345,2/10/2024,Antenna and Wave Propagation,A. Mehta,69.35,Absent
+S1346,6/7/2024,Antenna and Wave Propagation,V. Iyer,81.03,Present
+S1347,6/3/2024,Antenna and Wave Propagation,V. Iyer,65.89,Absent
+S1348,1/7/2024,Control Systems,R. Sharma,92.39,Absent
+S1349,4/25/2024,Antenna and Wave Propagation,V. Iyer,76.17,Absent
+S1350,5/17/2024,Analog Circuits,T. Gupta,64.35,Absent
+S1351,3/7/2024,Antenna and Wave Propagation,N. Rao,50.7,Absent
+S1352,2/23/2024,Signal Processing,A. Mehta,50.63,Absent
+S1353,6/25/2024,Antenna and Wave Propagation,V. Iyer,47.52,Absent
+S1354,1/9/2024,Signal Processing,S. Reddy,44.39,Absent
+S1355,6/24/2024,Communication Systems,S. Reddy,67.29,Present
+S1356,4/1/2024,Microprocessors,N. Rao,45.33,Absent
+S1357,2/11/2024,Digital Electronics,N. Rao,73.56,Present
+S1358,5/16/2024,Microprocessors,R. Sharma,99.55,Present
+S1359,3/8/2024,Embedded Systems,T. Gupta,40.89,Absent
+S1360,6/21/2024,Microprocessors,S. Reddy,61.41,Absent
+S1361,2/4/2024,Signal Processing,L. Kumar,61.55,Absent
+S1362,1/5/2024,Control Systems,R. Sharma,89.6,Present
+S1363,1/9/2024,VLSI Design,S. Reddy,83.59,Present
+S1364,6/27/2024,Electromagnetic Theory,T. Gupta,88.55,Present
+S1365,1/25/2024,Microprocessors,L. Kumar,66.42,Present
+S1366,6/19/2024,Digital Electronics,R. Sharma,61.54,Present
+S1367,1/29/2024,VLSI Design,S. Reddy,93.26,Present
+S1368,1/24/2024,VLSI Design,N. Rao,40.05,Absent
+S1369,3/27/2024,Digital Electronics,L. Kumar,87.84,Present
+S1370,3/30/2024,Electromagnetic Theory,S. Reddy,89.09,Absent
+S1371,2/25/2024,Antenna and Wave Propagation,T. Gupta,42.77,Absent
+S1372,1/17/2024,Signal Processing,L. Kumar,90.94,Present
+S1373,6/3/2024,Electromagnetic Theory,N. Rao,52.99,Absent
+S1374,1/4/2024,Analog Circuits,R. Sharma,53.1,Absent
+S1375,6/8/2024,VLSI Design,M. Das,93.24,Present
+S1376,3/9/2024,Signal Processing,T. Gupta,59.85,Absent
+S1377,1/10/2024,Antenna and Wave Propagation,A. Mehta,53.52,Absent
+S1378,2/15/2024,Antenna and Wave Propagation,L. Kumar,92.45,Absent
+S1379,4/16/2024,Control Systems,A. Mehta,97.06,Present
+S1380,2/5/2024,Signal Processing,N. Rao,81.31,Present
+S1381,2/12/2024,Communication Systems,L. Kumar,55.86,Absent
+S1382,3/4/2024,Signal Processing,V. Iyer,74.76,Absent
+S1383,2/26/2024,Electromagnetic Theory,N. Rao,89.58,Present
+S1384,5/20/2024,Control Systems,R. Sharma,43.86,Absent
+S1385,2/22/2024,Signal Processing,S. Reddy,56.61,Absent
+S1386,3/31/2024,Control Systems,V. Iyer,89.78,Present
+S1387,1/20/2024,Analog Circuits,V. Iyer,69.83,Present
+S1388,6/20/2024,VLSI Design,N. Rao,42.67,Absent
+S1389,2/22/2024,Electromagnetic Theory,S. Reddy,43.62,Absent
+S1390,2/10/2024,Signal Processing,L. Kumar,92.62,Present
+S1391,2/9/2024,Digital Electronics,L. Kumar,70.97,Present
+S1392,3/17/2024,Electromagnetic Theory,S. Reddy,91.05,Absent
+S1393,2/10/2024,Analog Circuits,A. Mehta,91.3,Present
+S1394,4/16/2024,Embedded Systems,N. Rao,40.97,Absent
+S1395,5/28/2024,Antenna and Wave Propagation,L. Kumar,79.21,Absent
+S1396,1/1/2024,Communication Systems,V. Iyer,55.03,Absent
+S1397,1/31/2024,Electromagnetic Theory,L. Kumar,89.08,Present
+S1398,6/16/2024,VLSI Design,R. Sharma,45.62,Absent
+S1399,1/28/2024,Signal Processing,M. Das,52.21,Absent
+S1400,5/2/2024,Signal Processing,R. Sharma,97.74,Present
+S1401,1/17/2024,Electromagnetic Theory,T. Gupta,98.65,Present
+S1402,2/22/2024,Electromagnetic Theory,S. Reddy,57.8,Absent
+S1403,2/21/2024,Analog Circuits,M. Das,85.19,Present
+S1404,3/2/2024,Antenna and Wave Propagation,R. Sharma,80.9,Present
+S1405,2/12/2024,Signal Processing,T. Gupta,92.13,Present
+S1406,2/6/2024,Antenna and Wave Propagation,A. Mehta,73.58,Present
+S1407,3/12/2024,Electromagnetic Theory,R. Sharma,81.62,Absent
+S1408,6/7/2024,Antenna and Wave Propagation,M. Das,70.56,Absent
+S1409,5/4/2024,Electromagnetic Theory,A. Mehta,45.26,Absent
+S1410,5/7/2024,Microprocessors,A. Mehta,43.41,Absent
+S1411,6/21/2024,Embedded Systems,A. Mehta,90.94,Present
+S1412,2/23/2024,Microprocessors,N. Rao,44.31,Absent
+S1413,1/7/2024,Embedded Systems,N. Rao,73.36,Present
+S1414,6/1/2024,Microprocessors,L. Kumar,40.25,Absent
+S1415,2/3/2024,Signal Processing,V. Iyer,91.27,Present
+S1416,1/30/2024,Embedded Systems,N. Rao,68.78,Absent
+S1417,2/1/2024,Control Systems,S. Reddy,41.78,Absent
+S1418,3/1/2024,Antenna and Wave Propagation,L. Kumar,42.91,Absent
+S1419,4/25/2024,Control Systems,N. Rao,51.45,Absent
+S1420,4/7/2024,Control Systems,R. Sharma,54.89,Absent
+S1421,6/7/2024,Signal Processing,A. Mehta,46.53,Absent
+S1422,4/22/2024,Microprocessors,S. Reddy,60.89,Absent
+S1423,5/22/2024,Microprocessors,A. Mehta,81.55,Present
+S1424,4/14/2024,Signal Processing,A. Mehta,48.49,Absent
+S1425,6/9/2024,Control Systems,S. Reddy,77.19,Present
+S1426,2/25/2024,Analog Circuits,R. Sharma,64.28,Absent
+S1427,2/17/2024,VLSI Design,R. Sharma,59.4,Absent
+S1428,5/8/2024,Microprocessors,R. Sharma,95.39,Present
+S1429,5/13/2024,Control Systems,L. Kumar,50.33,Absent
+S1430,5/6/2024,Embedded Systems,M. Das,71.65,Present
+S1431,1/7/2024,Signal Processing,A. Mehta,91.45,Present
+S1432,2/20/2024,Signal Processing,R. Sharma,89.29,Present
+S1433,1/12/2024,VLSI Design,L. Kumar,98.72,Present
+S1434,4/19/2024,Electromagnetic Theory,M. Das,70.96,Absent
+S1435,3/3/2024,Control Systems,V. Iyer,91.53,Present
+S1436,5/1/2024,Signal Processing,N. Rao,46.24,Absent
+S1437,1/26/2024,Microprocessors,M. Das,55.41,Absent
+S1438,1/29/2024,Digital Electronics,R. Sharma,58.98,Absent
+S1439,1/3/2024,Microprocessors,T. Gupta,97.46,Present
+S1440,6/6/2024,Analog Circuits,S. Reddy,94.01,Present
+S1441,6/6/2024,Electromagnetic Theory,T. Gupta,75.5,Present
+S1442,6/5/2024,Communication Systems,V. Iyer,51.09,Absent
+S1443,4/30/2024,Control Systems,T. Gupta,87.31,Present
+S1444,3/26/2024,Communication Systems,T. Gupta,63.01,Absent
+S1445,6/1/2024,VLSI Design,V. Iyer,69.82,Present
+S1446,2/25/2024,VLSI Design,L. Kumar,83.39,Present
+S1447,3/12/2024,VLSI Design,S. Reddy,89.02,Present
+S1448,5/2/2024,Microprocessors,S. Reddy,57.84,Absent
+S1449,1/30/2024,Digital Electronics,M. Das,70.27,Absent
+S1450,4/5/2024,Electromagnetic Theory,A. Mehta,45.27,Absent
+S1451,4/15/2024,Control Systems,R. Sharma,96.83,Present
+S1452,5/23/2024,Analog Circuits,L. Kumar,70.03,Present
+S1453,4/24/2024,Embedded Systems,A. Mehta,70.34,Absent
+S1454,1/13/2024,Communication Systems,M. Das,94.17,Present
+S1455,5/3/2024,Control Systems,V. Iyer,47.82,Absent
+S1456,4/25/2024,Electromagnetic Theory,N. Rao,95.58,Present
+S1457,2/7/2024,VLSI Design,N. Rao,62.46,Absent
+S1458,5/24/2024,VLSI Design,L. Kumar,45.86,Absent
+S1459,5/31/2024,Analog Circuits,L. Kumar,53.26,Absent
+S1460,6/4/2024,Embedded Systems,R. Sharma,74.68,Present
+S1461,3/6/2024,Analog Circuits,V. Iyer,54.07,Present
+S1462,4/27/2024,Electromagnetic Theory,T. Gupta,96.19,Present
+S1463,1/4/2024,Microprocessors,S. Reddy,65.22,Absent
+S1464,1/11/2024,VLSI Design,R. Sharma,75.63,Present
+S1465,6/26/2024,Electromagnetic Theory,N. Rao,41.71,Absent
+S1466,4/7/2024,Embedded Systems,V. Iyer,58.19,Present
+S1467,3/9/2024,Analog Circuits,L. Kumar,85.44,Present
+S1468,6/16/2024,Microprocessors,R. Sharma,96.37,Present
+S1469,1/14/2024,Microprocessors,V. Iyer,48.99,Absent
+S1470,6/24/2024,Embedded Systems,M. Das,87.39,Present
+S1471,5/27/2024,Electromagnetic Theory,R. Sharma,84.28,Absent
+S1472,5/7/2024,Microprocessors,S. Reddy,66.29,Present
+S1473,1/27/2024,Microprocessors,A. Mehta,79.72,Present
+S1474,1/24/2024,Signal Processing,M. Das,42.31,Absent
+S1475,5/16/2024,Signal Processing,V. Iyer,77.7,Absent
+S1476,3/27/2024,Embedded Systems,R. Sharma,42.94,Absent
+S1477,1/21/2024,Analog Circuits,A. Mehta,44.67,Absent
+S1478,2/25/2024,VLSI Design,N. Rao,62.87,Present
+S1479,4/17/2024,Analog Circuits,S. Reddy,83.07,Present
+S1480,1/12/2024,Antenna and Wave Propagation,T. Gupta,65.06,Present
+S1481,5/31/2024,VLSI Design,N. Rao,51.59,Absent
+S1482,1/15/2024,Microprocessors,V. Iyer,62.89,Absent
+S1483,4/3/2024,Signal Processing,M. Das,95.36,Present
+S1484,1/29/2024,Analog Circuits,N. Rao,63.82,Present
+S1485,5/16/2024,VLSI Design,R. Sharma,85.83,Present
+S1486,3/3/2024,Embedded Systems,R. Sharma,55.07,Absent
+S1487,4/10/2024,Digital Electronics,S. Reddy,65.15,Absent
+S1488,4/7/2024,Antenna and Wave Propagation,V. Iyer,49.92,Absent
+S1489,2/14/2024,Microprocessors,S. Reddy,77.95,Present
+S1490,6/18/2024,Embedded Systems,T. Gupta,58.21,Present
+S1491,3/22/2024,Electromagnetic Theory,S. Reddy,68.07,Present
+S1492,3/8/2024,Digital Electronics,V. Iyer,55.62,Absent
+S1493,4/12/2024,Embedded Systems,R. Sharma,43.8,Absent
+S1494,5/2/2024,Microprocessors,M. Das,59.5,Absent
+S1495,5/30/2024,Microprocessors,S. Reddy,99.37,Present
+S1496,5/3/2024,Electromagnetic Theory,S. Reddy,91.37,Present
+S1497,3/21/2024,Signal Processing,T. Gupta,76.11,Absent
+S1498,1/13/2024,Signal Processing,A. Mehta,89.59,Present
+S1499,3/20/2024,Analog Circuits,L. Kumar,42.6,Absent
+S1500,1/10/2024,Control Systems,V. Iyer,75.21,Absent
+S1501,5/18/2024,Digital Electronics,L. Kumar,99.08,Present
+S1502,1/10/2024,Digital Electronics,S. Reddy,40.87,Absent
+S1503,4/6/2024,Antenna and Wave Propagation,M. Das,63.92,Absent
+S1504,5/5/2024,Antenna and Wave Propagation,S. Reddy,82.64,Present
+S1505,2/12/2024,VLSI Design,A. Mehta,54.86,Absent
+S1506,6/22/2024,Analog Circuits,A. Mehta,75.32,Absent
+S1507,2/23/2024,Microprocessors,N. Rao,52.46,Absent
+S1508,3/14/2024,Embedded Systems,N. Rao,48.35,Absent
+S1509,1/19/2024,Electromagnetic Theory,R. Sharma,47.27,Absent
+S1510,5/7/2024,Communication Systems,A. Mehta,51.8,Absent
+S1511,5/23/2024,Analog Circuits,V. Iyer,79.23,Present
+S1512,4/2/2024,Digital Electronics,T. Gupta,46.43,Absent
+S1513,5/31/2024,Control Systems,S. Reddy,82.55,Present
+S1514,3/16/2024,Communication Systems,L. Kumar,43.58,Absent
+S1515,4/11/2024,Embedded Systems,T. Gupta,86.8,Present
+S1516,2/20/2024,Electromagnetic Theory,R. Sharma,90,Present
+S1517,4/15/2024,Microprocessors,M. Das,49.34,Absent
+S1518,1/25/2024,Digital Electronics,S. Reddy,52.28,Absent
+S1519,2/11/2024,Antenna and Wave Propagation,L. Kumar,81.57,Present
+S1520,6/16/2024,Digital Electronics,L. Kumar,94.09,Present
+S1521,5/6/2024,Electromagnetic Theory,R. Sharma,53.12,Absent
+S1522,5/9/2024,Embedded Systems,V. Iyer,54.82,Absent
+S1523,6/11/2024,Signal Processing,R. Sharma,63.55,Present
+S1524,6/10/2024,Analog Circuits,A. Mehta,95.63,Present
+S1525,5/3/2024,Control Systems,A. Mehta,48.64,Absent
+S1526,5/4/2024,Communication Systems,S. Reddy,66.81,Absent
+S1527,2/19/2024,Microprocessors,V. Iyer,91.53,Present
+S1528,5/31/2024,Microprocessors,N. Rao,98.76,Present
+S1529,6/26/2024,Electromagnetic Theory,M. Das,80.77,Absent
+S1530,2/6/2024,Embedded Systems,A. Mehta,86.29,Present
+S1531,1/22/2024,Signal Processing,R. Sharma,57.17,Present
+S1532,1/29/2024,Analog Circuits,S. Reddy,49.38,Absent
+S1533,1/24/2024,Microprocessors,T. Gupta,59.06,Absent
+S1534,4/21/2024,Microprocessors,V. Iyer,63.11,Absent
+S1535,4/14/2024,Signal Processing,A. Mehta,64.21,Present
+S1536,5/14/2024,Antenna and Wave Propagation,R. Sharma,59.19,Present
+S1537,6/6/2024,Control Systems,V. Iyer,52.9,Absent
+S1538,6/19/2024,Analog Circuits,T. Gupta,89.8,Absent
+S1539,3/13/2024,Electromagnetic Theory,T. Gupta,45.52,Absent
+S1540,1/15/2024,Analog Circuits,M. Das,67.76,Present
+S1541,5/27/2024,Digital Electronics,A. Mehta,97.73,Present
+S1542,6/7/2024,VLSI Design,L. Kumar,86,Present
+S1543,3/12/2024,Embedded Systems,N. Rao,98.94,Present
+S1544,1/22/2024,Communication Systems,V. Iyer,85.31,Present
+S1545,3/29/2024,Embedded Systems,S. Reddy,76.63,Present
+S1546,3/11/2024,VLSI Design,R. Sharma,47.45,Absent
+S1547,1/2/2024,Antenna and Wave Propagation,R. Sharma,65.14,Absent
+S1548,2/19/2024,VLSI Design,N. Rao,95.12,Present
+S1549,3/1/2024,Control Systems,L. Kumar,41.75,Absent
+S1550,5/7/2024,Digital Electronics,A. Mehta,52.38,Absent
+S1551,4/8/2024,Signal Processing,L. Kumar,78.09,Absent
+S1552,4/8/2024,Embedded Systems,A. Mehta,97.67,Present
+S1553,6/2/2024,Embedded Systems,R. Sharma,41.7,Absent
+S1554,2/18/2024,Signal Processing,T. Gupta,78.82,Present
+S1555,3/20/2024,Digital Electronics,M. Das,43.51,Absent
+S1556,3/21/2024,Embedded Systems,A. Mehta,92.57,Present
+S1557,5/11/2024,Control Systems,L. Kumar,47.28,Absent
+S1558,2/23/2024,Digital Electronics,M. Das,71.96,Present
+S1559,1/20/2024,Antenna and Wave Propagation,N. Rao,63.96,Present
+S1560,6/23/2024,Digital Electronics,M. Das,94.33,Present
+S1561,5/12/2024,Electromagnetic Theory,V. Iyer,65.98,Absent
+S1562,1/21/2024,Communication Systems,L. Kumar,50.23,Absent
+S1563,1/25/2024,Embedded Systems,A. Mehta,73.34,Absent
+S1564,1/4/2024,Analog Circuits,T. Gupta,72.41,Present
+S1565,5/2/2024,Control Systems,M. Das,78.43,Present
+S1566,4/20/2024,Embedded Systems,R. Sharma,59.06,Absent
+S1567,3/17/2024,Signal Processing,A. Mehta,41.8,Absent
+S1568,2/8/2024,Embedded Systems,T. Gupta,66.86,Present
+S1569,4/19/2024,Communication Systems,M. Das,72.05,Present
+S1570,2/4/2024,Electromagnetic Theory,N. Rao,40.31,Absent
+S1571,5/15/2024,Communication Systems,M. Das,46.82,Absent
+S1572,6/9/2024,Signal Processing,R. Sharma,88.87,Present
+S1573,5/3/2024,Signal Processing,T. Gupta,42.81,Absent
+S1574,5/16/2024,Digital Electronics,T. Gupta,66.05,Absent
+S1575,5/23/2024,Signal Processing,A. Mehta,82.7,Present
+S1576,2/7/2024,Signal Processing,A. Mehta,41.24,Absent
+S1577,2/23/2024,Digital Electronics,M. Das,67.74,Absent
+S1578,5/1/2024,Microprocessors,R. Sharma,83.54,Present
+S1579,2/28/2024,Control Systems,T. Gupta,80.02,Present
+S1580,3/24/2024,Embedded Systems,T. Gupta,46.24,Absent
+S1581,6/26/2024,Signal Processing,A. Mehta,59.18,Absent
+S1582,1/31/2024,Digital Electronics,M. Das,68.97,Absent
+S1583,5/16/2024,VLSI Design,V. Iyer,92.06,Present
+S1584,5/19/2024,Antenna and Wave Propagation,M. Das,53.37,Absent
+S1585,1/30/2024,VLSI Design,T. Gupta,75.48,Absent
+S1586,6/16/2024,Antenna and Wave Propagation,M. Das,84.49,Present
+S1587,4/11/2024,Analog Circuits,N. Rao,64.98,Present
+S1588,4/16/2024,Digital Electronics,M. Das,61.24,Absent
+S1589,6/1/2024,Microprocessors,T. Gupta,61.05,Present
+S1590,2/16/2024,Signal Processing,L. Kumar,58.72,Present
+S1591,2/19/2024,Signal Processing,A. Mehta,68.02,Present
+S1592,5/23/2024,Digital Electronics,R. Sharma,74.69,Present
+S1593,5/27/2024,Antenna and Wave Propagation,V. Iyer,89.23,Present
+S1594,6/25/2024,Analog Circuits,M. Das,66.13,Absent
+S1595,6/1/2024,Electromagnetic Theory,T. Gupta,74.95,Absent
+S1596,2/3/2024,Communication Systems,T. Gupta,63.07,Absent
+S1597,5/25/2024,Signal Processing,M. Das,85.32,Absent
+S1598,4/16/2024,Signal Processing,N. Rao,52.74,Absent
+S1599,1/13/2024,Communication Systems,S. Reddy,44.68,Absent
+S1600,5/12/2024,Signal Processing,N. Rao,47.34,Absent
+S1601,4/18/2024,Electromagnetic Theory,V. Iyer,93.42,Present
+S1602,2/5/2024,Communication Systems,L. Kumar,53.29,Absent
+S1603,6/28/2024,Communication Systems,V. Iyer,83.98,Present
+S1604,6/6/2024,Digital Electronics,V. Iyer,92.59,Present
+S1605,6/6/2024,Signal Processing,T. Gupta,48.61,Absent
+S1606,3/22/2024,Communication Systems,S. Reddy,74.34,Absent
+S1607,1/17/2024,Electromagnetic Theory,N. Rao,53.23,Absent
+S1608,3/11/2024,Communication Systems,S. Reddy,53.39,Absent
+S1609,6/21/2024,Electromagnetic Theory,T. Gupta,86.24,Present
+S1610,6/12/2024,Antenna and Wave Propagation,T. Gupta,72.02,Present
+S1611,2/10/2024,Digital Electronics,N. Rao,81.25,Present
+S1612,3/15/2024,Analog Circuits,T. Gupta,64.06,Absent
+S1613,6/23/2024,Communication Systems,L. Kumar,46.39,Absent
+S1614,5/28/2024,Embedded Systems,T. Gupta,96.87,Present
+S1615,3/6/2024,Control Systems,N. Rao,85.78,Absent
+S1616,5/31/2024,Signal Processing,N. Rao,50.37,Absent
+S1617,6/20/2024,Communication Systems,T. Gupta,75.94,Present
+S1618,3/18/2024,Digital Electronics,T. Gupta,91.19,Present
+S1619,6/22/2024,VLSI Design,M. Das,54.91,Absent
+S1620,2/27/2024,Communication Systems,A. Mehta,48.45,Absent
+S1621,4/11/2024,Analog Circuits,N. Rao,92.95,Present
+S1622,5/21/2024,Communication Systems,A. Mehta,65.74,Absent
+S1623,1/29/2024,VLSI Design,L. Kumar,94.68,Present
+S1624,4/13/2024,Digital Electronics,L. Kumar,43.61,Absent
+S1625,5/28/2024,Electromagnetic Theory,M. Das,52.09,Absent
+S1626,5/20/2024,Electromagnetic Theory,S. Reddy,42.86,Absent
+S1627,5/4/2024,Microprocessors,N. Rao,66.34,Absent
+S1628,3/6/2024,Antenna and Wave Propagation,S. Reddy,47.25,Absent
+S1629,1/6/2024,Control Systems,M. Das,50.66,Absent
+S1630,3/13/2024,Embedded Systems,V. Iyer,77.87,Present
+S1631,2/20/2024,Embedded Systems,A. Mehta,95.19,Present
+S1632,4/28/2024,Analog Circuits,R. Sharma,77.79,Absent
+S1633,5/9/2024,Microprocessors,R. Sharma,75.69,Present
+S1634,3/14/2024,Antenna and Wave Propagation,T. Gupta,80.42,Present
+S1635,5/5/2024,Antenna and Wave Propagation,L. Kumar,55.29,Absent
+S1636,2/26/2024,Embedded Systems,V. Iyer,80.66,Absent
+S1637,1/7/2024,Communication Systems,V. Iyer,48.37,Absent
+S1638,2/10/2024,Control Systems,V. Iyer,42.04,Absent
+S1639,5/13/2024,Microprocessors,M. Das,99.21,Present
+S1640,4/26/2024,Antenna and Wave Propagation,T. Gupta,52.57,Absent
+S1641,1/5/2024,Signal Processing,T. Gupta,69.2,Present
+S1642,4/2/2024,Electromagnetic Theory,L. Kumar,56.95,Absent
+S1643,3/10/2024,Signal Processing,R. Sharma,46.2,Absent
+S1644,1/18/2024,Communication Systems,R. Sharma,69.24,Absent
+S1645,4/10/2024,Antenna and Wave Propagation,S. Reddy,40.51,Absent
+S1646,2/19/2024,Microprocessors,A. Mehta,43.29,Absent
+S1647,4/17/2024,Embedded Systems,V. Iyer,48.02,Absent
+S1648,3/16/2024,Embedded Systems,M. Das,78.78,Absent
+S1649,2/6/2024,Embedded Systems,N. Rao,59.89,Absent
+S1650,6/13/2024,Electromagnetic Theory,N. Rao,73.57,Absent
+S1651,2/16/2024,Electromagnetic Theory,T. Gupta,57.94,Absent
+S1652,3/2/2024,Microprocessors,V. Iyer,45.78,Absent
+S1653,1/11/2024,Digital Electronics,M. Das,59.83,Absent
+S1654,3/19/2024,Digital Electronics,V. Iyer,81,Present
+S1655,1/23/2024,Signal Processing,L. Kumar,81.29,Present
+S1656,2/27/2024,Digital Electronics,T. Gupta,87.92,Absent
+S1657,2/18/2024,Control Systems,V. Iyer,95.9,Present
+S1658,6/22/2024,Antenna and Wave Propagation,R. Sharma,67.11,Absent
+S1659,1/21/2024,Analog Circuits,N. Rao,60.82,Present
+S1660,4/6/2024,Electromagnetic Theory,M. Das,40.22,Absent
+S1661,6/10/2024,Analog Circuits,T. Gupta,81.19,Absent
+S1662,5/3/2024,Microprocessors,T. Gupta,41.07,Absent
+S1663,4/10/2024,Microprocessors,S. Reddy,51.99,Absent
+S1664,2/2/2024,Communication Systems,V. Iyer,96.45,Present
+S1665,1/28/2024,Embedded Systems,S. Reddy,74.56,Absent
+S1666,4/12/2024,VLSI Design,S. Reddy,53.69,Absent
+S1667,5/15/2024,Digital Electronics,A. Mehta,47.09,Absent
+S1668,2/18/2024,Microprocessors,M. Das,58.78,Absent
+S1669,3/26/2024,Communication Systems,M. Das,69.86,Absent
+S1670,3/26/2024,Analog Circuits,N. Rao,82.55,Present
+S1671,3/30/2024,VLSI Design,L. Kumar,45.31,Absent
+S1672,6/15/2024,Antenna and Wave Propagation,A. Mehta,90.04,Present
+S1673,1/11/2024,Digital Electronics,L. Kumar,68.07,Present
+S1674,3/28/2024,Signal Processing,S. Reddy,78.58,Present
+S1675,5/5/2024,Embedded Systems,T. Gupta,82.24,Present
+S1676,6/27/2024,Analog Circuits,T. Gupta,78.62,Absent
+S1677,1/14/2024,Communication Systems,T. Gupta,43.09,Absent
+S1678,2/4/2024,Embedded Systems,T. Gupta,40.93,Absent
+S1679,6/28/2024,VLSI Design,M. Das,52.33,Absent
+S1680,1/8/2024,Microprocessors,V. Iyer,50.35,Absent
+S1681,2/7/2024,Control Systems,M. Das,50.25,Absent
+S1682,4/13/2024,Microprocessors,V. Iyer,87.76,Absent
+S1683,3/9/2024,Electromagnetic Theory,R. Sharma,71.05,Absent
+S1684,4/25/2024,Control Systems,L. Kumar,47.96,Absent
+S1685,5/7/2024,Electromagnetic Theory,M. Das,64.78,Present
+S1686,3/19/2024,Microprocessors,V. Iyer,50.19,Absent
+S1687,4/21/2024,Analog Circuits,L. Kumar,89.18,Present
+S1688,4/1/2024,Signal Processing,M. Das,95.88,Present
+S1689,3/17/2024,Microprocessors,V. Iyer,97.6,Present
+S1690,6/19/2024,Analog Circuits,T. Gupta,94.7,Present
+S1691,6/13/2024,Microprocessors,V. Iyer,85.63,Present
+S1692,6/1/2024,Control Systems,M. Das,40.05,Absent
+S1693,4/2/2024,Signal Processing,A. Mehta,46.06,Absent
+S1694,6/27/2024,Control Systems,A. Mehta,46.6,Absent
+S1695,6/3/2024,Communication Systems,R. Sharma,61.75,Absent
+S1696,6/6/2024,Electromagnetic Theory,M. Das,98.43,Present
+S1697,6/28/2024,Digital Electronics,T. Gupta,83.6,Absent
+S1698,5/6/2024,Microprocessors,T. Gupta,70.37,Absent
+S1699,4/7/2024,Antenna and Wave Propagation,A. Mehta,99.66,Present
+S1700,5/23/2024,VLSI Design,A. Mehta,83.87,Absent
+S1701,4/15/2024,Control Systems,R. Sharma,72.53,Absent
+S1702,3/15/2024,Microprocessors,M. Das,93.97,Present
+S1703,1/3/2024,Electromagnetic Theory,A. Mehta,82.89,Present
+S1704,6/12/2024,VLSI Design,V. Iyer,44.96,Absent
+S1705,3/20/2024,Signal Processing,S. Reddy,95.35,Present
+S1706,2/29/2024,Digital Electronics,V. Iyer,90.98,Present
+S1707,3/10/2024,Electromagnetic Theory,R. Sharma,42.81,Absent
+S1708,4/28/2024,Antenna and Wave Propagation,L. Kumar,45.36,Absent
+S1709,4/23/2024,Control Systems,T. Gupta,50.67,Absent
+S1710,3/4/2024,Control Systems,A. Mehta,42.08,Absent
+S1711,4/10/2024,Embedded Systems,R. Sharma,56.33,Absent
+S1712,5/25/2024,Communication Systems,R. Sharma,49.18,Absent
+S1713,3/13/2024,Digital Electronics,T. Gupta,50.45,Absent
+S1714,2/7/2024,Embedded Systems,S. Reddy,60.73,Absent
+S1715,4/23/2024,Communication Systems,S. Reddy,61.32,Absent
+S1716,5/15/2024,Antenna and Wave Propagation,A. Mehta,46.66,Absent
+S1717,6/9/2024,Electromagnetic Theory,L. Kumar,95.67,Present
+S1718,6/16/2024,Microprocessors,V. Iyer,40.77,Absent
+S1719,5/11/2024,Microprocessors,S. Reddy,62.46,Present
+S1720,4/24/2024,Control Systems,A. Mehta,86.61,Present
+S1721,3/26/2024,Antenna and Wave Propagation,S. Reddy,69.03,Present
+S1722,3/6/2024,Electromagnetic Theory,R. Sharma,97.89,Present
+S1723,4/5/2024,Communication Systems,L. Kumar,75.29,Absent
+S1724,3/27/2024,Microprocessors,A. Mehta,74.45,Present
+S1725,5/22/2024,Communication Systems,N. Rao,64.71,Absent
+S1726,1/3/2024,Communication Systems,T. Gupta,61.38,Absent
+S1727,5/4/2024,Communication Systems,S. Reddy,52.97,Absent
+S1728,2/12/2024,VLSI Design,R. Sharma,80.08,Present
+S1729,4/7/2024,Embedded Systems,A. Mehta,80.22,Present
+S1730,1/14/2024,Microprocessors,N. Rao,80.25,Absent
+S1731,3/31/2024,Communication Systems,R. Sharma,47.36,Absent
+S1732,1/7/2024,Embedded Systems,R. Sharma,49.62,Absent
+S1733,4/12/2024,Antenna and Wave Propagation,M. Das,69.01,Absent
+S1734,1/17/2024,Control Systems,M. Das,47.14,Absent
+S1735,4/22/2024,Communication Systems,T. Gupta,54.82,Absent
+S1736,1/12/2024,Analog Circuits,M. Das,71.93,Absent
+S1737,4/15/2024,VLSI Design,R. Sharma,73.17,Absent
+S1738,6/26/2024,VLSI Design,M. Das,67.81,Absent
+S1739,4/21/2024,Communication Systems,R. Sharma,54.98,Absent
+S1740,1/20/2024,Digital Electronics,S. Reddy,42.08,Absent
+S1741,1/17/2024,Control Systems,M. Das,53.13,Absent
+S1742,4/6/2024,Digital Electronics,S. Reddy,82.47,Present
+S1743,3/26/2024,Analog Circuits,L. Kumar,49.05,Absent
+S1744,6/8/2024,Control Systems,V. Iyer,48.17,Absent
+S1745,5/3/2024,Signal Processing,M. Das,63.98,Absent
+S1746,3/28/2024,Antenna and Wave Propagation,A. Mehta,85.61,Present
+S1747,4/22/2024,Analog Circuits,T. Gupta,84.93,Absent
+S1748,1/19/2024,Control Systems,R. Sharma,81.91,Present
+S1749,3/28/2024,Microprocessors,T. Gupta,48.81,Absent
+S1750,1/2/2024,Digital Electronics,V. Iyer,94.69,Present
+S1751,5/1/2024,Signal Processing,V. Iyer,69.12,Absent
+S1752,1/21/2024,VLSI Design,T. Gupta,76.89,Absent
+S1753,4/10/2024,Digital Electronics,V. Iyer,74.84,Absent
+S1754,2/14/2024,Control Systems,M. Das,69.49,Absent
+S1755,1/8/2024,Control Systems,T. Gupta,80.8,Present
+S1756,4/30/2024,Control Systems,T. Gupta,50.06,Absent
+S1757,5/10/2024,Microprocessors,L. Kumar,76.48,Present
+S1758,4/15/2024,Microprocessors,T. Gupta,45.34,Absent
+S1759,4/4/2024,Electromagnetic Theory,N. Rao,67.96,Absent
+S1760,5/1/2024,Microprocessors,S. Reddy,49.33,Absent
+S1761,4/19/2024,Signal Processing,N. Rao,72.19,Absent
+S1762,4/27/2024,Digital Electronics,S. Reddy,51.77,Absent
+S1763,6/8/2024,Antenna and Wave Propagation,L. Kumar,58.37,Absent
+S1764,3/19/2024,Control Systems,R. Sharma,68.3,Present
+S1765,3/16/2024,Antenna and Wave Propagation,T. Gupta,52.37,Absent
+S1766,2/15/2024,Microprocessors,S. Reddy,65.55,Absent
+S1767,4/15/2024,Digital Electronics,T. Gupta,89.51,Present
+S1768,5/22/2024,Antenna and Wave Propagation,N. Rao,61.23,Absent
+S1769,4/4/2024,Electromagnetic Theory,S. Reddy,70.08,Present
+S1770,5/28/2024,Analog Circuits,S. Reddy,52,Absent
+S1771,2/3/2024,VLSI Design,S. Reddy,68.96,Present
+S1772,5/12/2024,Embedded Systems,M. Das,98.02,Present
+S1773,6/28/2024,Analog Circuits,R. Sharma,64.98,Present
+S1774,3/22/2024,Analog Circuits,S. Reddy,74.72,Absent
+S1775,5/15/2024,VLSI Design,T. Gupta,91.5,Present
+S1776,4/3/2024,Control Systems,T. Gupta,45.79,Absent
+S1777,6/5/2024,Antenna and Wave Propagation,S. Reddy,64.32,Absent
+S1778,5/10/2024,Electromagnetic Theory,N. Rao,97.99,Present
+S1779,2/25/2024,Electromagnetic Theory,M. Das,95.06,Present
+S1780,2/16/2024,Communication Systems,N. Rao,96.06,Present
+S1781,4/2/2024,Antenna and Wave Propagation,N. Rao,95.4,Present
+S1782,4/25/2024,Control Systems,L. Kumar,90.44,Present
+S1783,1/23/2024,Embedded Systems,M. Das,74.01,Absent
+S1784,4/15/2024,VLSI Design,V. Iyer,67.92,Absent
+S1785,6/12/2024,Electromagnetic Theory,S. Reddy,97.48,Present
+S1786,1/12/2024,Signal Processing,S. Reddy,56.54,Absent
+S1787,4/23/2024,Embedded Systems,V. Iyer,76.85,Absent
+S1788,3/28/2024,Control Systems,R. Sharma,47.6,Absent
+S1789,1/25/2024,Digital Electronics,L. Kumar,79.22,Present
+S1790,3/10/2024,Electromagnetic Theory,M. Das,81.71,Present
+S1791,2/4/2024,Communication Systems,N. Rao,80.21,Present
+S1792,3/11/2024,Electromagnetic Theory,A. Mehta,41.4,Absent
+S1793,4/24/2024,Communication Systems,L. Kumar,61.11,Absent
+S1794,5/16/2024,Microprocessors,V. Iyer,61.3,Present
+S1795,1/20/2024,Antenna and Wave Propagation,L. Kumar,94.13,Present
+S1796,1/24/2024,Microprocessors,N. Rao,70.09,Absent
+S1797,3/3/2024,Signal Processing,N. Rao,83.96,Present
+S1798,6/12/2024,Control Systems,L. Kumar,84.73,Present
+S1799,3/16/2024,Antenna and Wave Propagation,R. Sharma,67.03,Absent
+S1800,1/25/2024,VLSI Design,V. Iyer,68.76,Absent
+S1801,2/23/2024,Antenna and Wave Propagation,A. Mehta,41.98,Absent
+S1802,4/14/2024,Digital Electronics,M. Das,41.64,Absent
+S1803,2/12/2024,Analog Circuits,S. Reddy,96.6,Present
+S1804,1/20/2024,Analog Circuits,M. Das,51.54,Absent
+S1805,6/25/2024,Electromagnetic Theory,T. Gupta,90.9,Present
+S1806,5/9/2024,Digital Electronics,A. Mehta,72.65,Absent
+S1807,2/28/2024,Antenna and Wave Propagation,L. Kumar,70.16,Present
+S1808,4/24/2024,Embedded Systems,T. Gupta,87,Present
+S1809,3/22/2024,VLSI Design,S. Reddy,68.76,Absent
+S1810,4/10/2024,Microprocessors,M. Das,69.07,Absent
+S1811,2/29/2024,Analog Circuits,A. Mehta,53.76,Absent
+S1812,2/9/2024,Control Systems,T. Gupta,78.18,Present
+S1813,4/11/2024,Electromagnetic Theory,R. Sharma,95.72,Present
+S1814,5/5/2024,Control Systems,V. Iyer,86,Present
+S1815,6/4/2024,Communication Systems,N. Rao,55.53,Absent
+S1816,2/13/2024,Antenna and Wave Propagation,R. Sharma,76.38,Absent
+S1817,2/18/2024,Control Systems,M. Das,82.2,Present
+S1818,4/14/2024,VLSI Design,V. Iyer,44.11,Absent
+S1819,4/23/2024,Electromagnetic Theory,T. Gupta,46.28,Absent
+S1820,2/6/2024,Antenna and Wave Propagation,V. Iyer,50.35,Absent
+S1821,2/13/2024,Microprocessors,R. Sharma,85.62,Absent
+S1822,3/15/2024,VLSI Design,R. Sharma,48.18,Absent
+S1823,4/8/2024,Communication Systems,T. Gupta,53.15,Present
+S1824,3/18/2024,VLSI Design,M. Das,85.71,Absent
+S1825,6/22/2024,Electromagnetic Theory,V. Iyer,87.91,Present
+S1826,1/17/2024,Microprocessors,M. Das,40.88,Absent
+S1827,6/25/2024,Signal Processing,S. Reddy,46.61,Absent
+S1828,2/24/2024,Control Systems,R. Sharma,41.47,Absent
+S1829,4/15/2024,Electromagnetic Theory,M. Das,97.47,Present
+S1830,1/30/2024,Microprocessors,N. Rao,65.47,Present
+S1831,2/16/2024,Digital Electronics,M. Das,49.52,Absent
+S1832,5/9/2024,Digital Electronics,L. Kumar,53.73,Absent
+S1833,3/4/2024,Embedded Systems,S. Reddy,99.84,Present
+S1834,1/12/2024,Antenna and Wave Propagation,L. Kumar,87.84,Present
+S1835,6/3/2024,Embedded Systems,A. Mehta,56.95,Absent
+S1836,5/15/2024,Communication Systems,N. Rao,54.45,Absent
+S1837,4/3/2024,Embedded Systems,L. Kumar,47.12,Absent
+S1838,2/18/2024,Signal Processing,V. Iyer,71.5,Absent
+S1839,3/9/2024,Analog Circuits,R. Sharma,60.89,Absent
+S1840,1/26/2024,Analog Circuits,V. Iyer,63.76,Present
+S1841,4/2/2024,Digital Electronics,S. Reddy,60.28,Absent
+S1842,2/19/2024,Control Systems,M. Das,67.43,Absent
+S1843,3/11/2024,Electromagnetic Theory,L. Kumar,55.73,Present
+S1844,1/30/2024,Embedded Systems,M. Das,74.33,Absent
+S1845,2/7/2024,Antenna and Wave Propagation,N. Rao,48.03,Absent
+S1846,1/25/2024,Electromagnetic Theory,S. Reddy,75.96,Absent
+S1847,4/2/2024,Electromagnetic Theory,N. Rao,74.85,Present
+S1848,2/21/2024,VLSI Design,A. Mehta,97.58,Present
+S1849,3/8/2024,Signal Processing,L. Kumar,91,Present
+S1850,1/14/2024,Digital Electronics,R. Sharma,69.44,Present
+S1851,4/12/2024,VLSI Design,M. Das,97.8,Present
+S1852,3/1/2024,Microprocessors,S. Reddy,64.08,Absent
+S1853,4/11/2024,Control Systems,T. Gupta,53.81,Absent
+S1854,1/7/2024,Signal Processing,A. Mehta,78.51,Present
+S1855,6/24/2024,Digital Electronics,M. Das,86.89,Absent
+S1856,4/4/2024,Digital Electronics,N. Rao,87.34,Present
+S1857,4/21/2024,Communication Systems,N. Rao,64.89,Absent
+S1858,5/13/2024,Digital Electronics,M. Das,72.92,Absent
+S1859,4/24/2024,Embedded Systems,M. Das,72.74,Present
+S1860,2/4/2024,Communication Systems,N. Rao,81.98,Absent
+S1861,4/7/2024,Analog Circuits,R. Sharma,61.34,Absent
+S1862,5/13/2024,Analog Circuits,S. Reddy,47.7,Absent
+S1863,5/26/2024,Embedded Systems,N. Rao,53.65,Absent
+S1864,3/22/2024,Analog Circuits,L. Kumar,45.89,Absent
+S1865,1/7/2024,Antenna and Wave Propagation,A. Mehta,52.81,Absent
+S1866,1/9/2024,Electromagnetic Theory,V. Iyer,46.04,Absent
+S1867,6/21/2024,Electromagnetic Theory,S. Reddy,62.93,Present
+S1868,4/26/2024,Analog Circuits,V. Iyer,88.9,Present
+S1869,4/23/2024,Embedded Systems,S. Reddy,74.3,Present
+S1870,2/3/2024,Communication Systems,S. Reddy,93.92,Present
+S1871,6/3/2024,Analog Circuits,T. Gupta,91.75,Present
+S1872,1/12/2024,Signal Processing,M. Das,59.11,Absent
+S1873,5/17/2024,Microprocessors,A. Mehta,95.22,Present
+S1874,1/13/2024,Control Systems,M. Das,42.13,Absent
+S1875,4/7/2024,Embedded Systems,S. Reddy,78.65,Present
+S1876,5/23/2024,Control Systems,V. Iyer,59.71,Absent
+S1877,5/11/2024,Communication Systems,T. Gupta,68.38,Absent
+S1878,5/11/2024,Digital Electronics,R. Sharma,88.49,Present
+S1879,4/15/2024,Analog Circuits,M. Das,62.93,Absent
+S1880,6/7/2024,Digital Electronics,S. Reddy,81.92,Present
+S1881,3/20/2024,Antenna and Wave Propagation,M. Das,65.07,Absent
+S1882,2/8/2024,Analog Circuits,T. Gupta,49.33,Absent
+S1883,6/14/2024,Embedded Systems,S. Reddy,52,Absent
+S1884,3/3/2024,Analog Circuits,S. Reddy,40.76,Absent
+S1885,5/27/2024,Embedded Systems,L. Kumar,49.51,Absent
+S1886,3/30/2024,Control Systems,L. Kumar,54.81,Absent
+S1887,1/9/2024,Microprocessors,N. Rao,70.33,Absent
+S1888,6/1/2024,Control Systems,N. Rao,90.94,Present
+S1889,2/4/2024,Microprocessors,R. Sharma,55.06,Absent
+S1890,2/5/2024,Digital Electronics,S. Reddy,51.25,Absent
+S1891,1/4/2024,Analog Circuits,A. Mehta,80.81,Present
+S1892,5/28/2024,Electromagnetic Theory,L. Kumar,43.29,Absent
+S1893,5/28/2024,VLSI Design,T. Gupta,86.19,Present
+S1894,6/14/2024,VLSI Design,A. Mehta,78.69,Absent
+S1895,1/22/2024,Analog Circuits,N. Rao,85.46,Present
+S1896,1/31/2024,Digital Electronics,A. Mehta,88.24,Present
+S1897,3/26/2024,Control Systems,L. Kumar,77.14,Present
+S1898,6/28/2024,Analog Circuits,T. Gupta,83.55,Absent
+S1899,6/12/2024,Electromagnetic Theory,A. Mehta,91.84,Present
+S1900,2/23/2024,Communication Systems,R. Sharma,46.56,Absent
+S1901,3/12/2024,Signal Processing,N. Rao,70.17,Absent
+S1902,4/17/2024,Digital Electronics,A. Mehta,83.7,Absent
+S1903,2/29/2024,Digital Electronics,V. Iyer,69.1,Absent
+S1904,4/12/2024,Communication Systems,L. Kumar,40.38,Absent
+S1905,2/16/2024,Control Systems,T. Gupta,87.93,Present
+S1906,4/26/2024,VLSI Design,M. Das,45.45,Absent
+S1907,4/19/2024,Antenna and Wave Propagation,M. Das,65.72,Absent
+S1908,1/28/2024,Control Systems,M. Das,64.04,Absent
+S1909,2/23/2024,Antenna and Wave Propagation,S. Reddy,90.87,Present
+S1910,3/19/2024,Microprocessors,T. Gupta,93.1,Present
+S1911,2/20/2024,Control Systems,N. Rao,75.85,Present
+S1912,4/23/2024,Control Systems,R. Sharma,52.07,Absent
+S1913,1/6/2024,Digital Electronics,V. Iyer,45.93,Absent
+S1914,2/3/2024,Control Systems,R. Sharma,57.96,Absent
+S1915,6/17/2024,VLSI Design,S. Reddy,54.39,Absent
+S1916,1/21/2024,Electromagnetic Theory,M. Das,52.36,Absent
+S1917,1/14/2024,VLSI Design,N. Rao,85.72,Present
+S1918,1/5/2024,Analog Circuits,N. Rao,94.02,Present
+S1919,1/14/2024,Analog Circuits,R. Sharma,65.14,Absent
+S1920,4/15/2024,Embedded Systems,A. Mehta,62.41,Absent
+S1921,3/16/2024,Microprocessors,T. Gupta,61.66,Absent
+S1922,1/23/2024,Electromagnetic Theory,A. Mehta,98.74,Present
+S1923,5/7/2024,Digital Electronics,R. Sharma,93.13,Present
+S1924,4/15/2024,Communication Systems,S. Reddy,84.79,Present
+S1925,6/19/2024,Analog Circuits,V. Iyer,65.73,Absent
+S1926,5/22/2024,Embedded Systems,M. Das,53.01,Absent
+S1927,4/17/2024,Microprocessors,T. Gupta,67.47,Absent
+S1928,1/21/2024,Microprocessors,M. Das,88.94,Present
+S1929,6/9/2024,Microprocessors,N. Rao,95.45,Present
+S1930,3/2/2024,Digital Electronics,V. Iyer,86.42,Present
+S1931,3/29/2024,VLSI Design,S. Reddy,88.44,Present
+S1932,3/11/2024,Antenna and Wave Propagation,L. Kumar,46.36,Absent
+S1933,6/16/2024,Embedded Systems,S. Reddy,73.57,Present
+S1934,3/11/2024,Microprocessors,S. Reddy,41.27,Absent
+S1935,6/8/2024,Microprocessors,R. Sharma,69.4,Absent
+S1936,4/8/2024,VLSI Design,T. Gupta,77.77,Absent
+S1937,4/4/2024,Electromagnetic Theory,R. Sharma,81.68,Present
+S1938,5/3/2024,Antenna and Wave Propagation,N. Rao,75.79,Present
+S1939,2/28/2024,Control Systems,T. Gupta,44.03,Absent
+S1940,5/17/2024,VLSI Design,L. Kumar,58.69,Absent
+S1941,3/1/2024,Control Systems,A. Mehta,55.77,Absent
+S1942,2/8/2024,Microprocessors,L. Kumar,89.02,Present
+S1943,5/18/2024,Control Systems,L. Kumar,49.31,Absent
+S1944,1/5/2024,Microprocessors,V. Iyer,70.72,Absent
+S1945,2/26/2024,Antenna and Wave Propagation,L. Kumar,76.97,Present
+S1946,3/19/2024,Digital Electronics,A. Mehta,61.62,Present
+S1947,6/27/2024,Digital Electronics,N. Rao,49.3,Absent
+S1948,2/14/2024,Digital Electronics,S. Reddy,46.27,Absent
+S1949,1/15/2024,VLSI Design,L. Kumar,43.41,Absent
+S1950,1/13/2024,Microprocessors,A. Mehta,48.62,Absent
+S1951,4/20/2024,Analog Circuits,A. Mehta,85.42,Present
+S1952,3/6/2024,Digital Electronics,S. Reddy,94.65,Present
+S1953,3/23/2024,Microprocessors,M. Das,52.54,Absent
+S1954,6/11/2024,Control Systems,S. Reddy,52.23,Absent
+S1955,6/6/2024,Signal Processing,V. Iyer,69.44,Present
+S1956,4/10/2024,Electromagnetic Theory,A. Mehta,92.67,Present
+S1957,2/29/2024,Signal Processing,A. Mehta,63.57,Present
+S1958,2/23/2024,Digital Electronics,V. Iyer,47.43,Absent
+S1959,5/24/2024,Antenna and Wave Propagation,V. Iyer,70.41,Present
+S1960,2/23/2024,Signal Processing,L. Kumar,86.33,Present
+S1961,1/21/2024,Electromagnetic Theory,N. Rao,42.74,Absent
+S1962,5/3/2024,Analog Circuits,N. Rao,81.32,Present
+S1963,3/30/2024,Digital Electronics,S. Reddy,45.35,Absent
+S1964,4/28/2024,Embedded Systems,R. Sharma,62.32,Present
+S1965,1/29/2024,Microprocessors,L. Kumar,45.83,Absent
+S1966,6/16/2024,Signal Processing,N. Rao,68.29,Present
+S1967,1/9/2024,Signal Processing,T. Gupta,87.63,Present
+S1968,1/23/2024,VLSI Design,A. Mehta,74.55,Absent
+S1969,2/12/2024,Antenna and Wave Propagation,A. Mehta,51.73,Absent
+S1970,2/15/2024,Communication Systems,V. Iyer,63.37,Absent
+S1971,1/31/2024,Signal Processing,V. Iyer,75.95,Present
+S1972,2/23/2024,Antenna and Wave Propagation,R. Sharma,82.53,Present
+S1973,3/31/2024,VLSI Design,A. Mehta,46.5,Absent
+S1974,5/18/2024,Control Systems,V. Iyer,87.7,Present
+S1975,3/12/2024,Signal Processing,V. Iyer,68.63,Present
+S1976,1/26/2024,Embedded Systems,T. Gupta,88.51,Present
+S1977,4/9/2024,Signal Processing,T. Gupta,67.72,Absent
+S1978,3/8/2024,Signal Processing,S. Reddy,83.37,Present
+S1979,2/28/2024,VLSI Design,T. Gupta,64.05,Absent
+S1980,6/7/2024,Signal Processing,A. Mehta,54.52,Present
+S1981,1/24/2024,VLSI Design,A. Mehta,45.15,Absent
+S1982,4/4/2024,VLSI Design,M. Das,90.98,Present
+S1983,2/23/2024,Control Systems,R. Sharma,78.14,Absent
+S1984,4/8/2024,Electromagnetic Theory,N. Rao,74.21,Present
+S1985,3/21/2024,Control Systems,L. Kumar,70.36,Absent
+S1986,3/9/2024,Electromagnetic Theory,M. Das,77.48,Absent
+S1987,5/8/2024,Communication Systems,L. Kumar,98.77,Present
+S1988,5/22/2024,VLSI Design,R. Sharma,46.05,Absent
+S1989,2/2/2024,Antenna and Wave Propagation,S. Reddy,85.63,Present
+S1990,1/28/2024,Analog Circuits,V. Iyer,54.49,Absent
+S1991,4/13/2024,Control Systems,T. Gupta,70.27,Absent
+S1992,6/1/2024,Electromagnetic Theory,V. Iyer,74.51,Absent
+S1993,4/11/2024,Microprocessors,L. Kumar,51.19,Absent
+S1994,1/20/2024,Analog Circuits,A. Mehta,99.05,Present
+S1995,5/24/2024,Control Systems,M. Das,49.98,Absent
+S1996,1/20/2024,Control Systems,N. Rao,52.54,Absent
+S1997,2/22/2024,Microprocessors,M. Das,61.72,Present
+S1998,5/29/2024,Embedded Systems,N. Rao,61.83,Absent
+S1999,5/19/2024,Communication Systems,M. Das,61.24,Present
